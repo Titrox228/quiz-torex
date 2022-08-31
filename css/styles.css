@@ -14,7 +14,7 @@ header.header {
 }
 header.header {
     background-color: #6667AB;
-    background-image: url(img/background-header-doors.webp) ;
+    background-image: url(https://titrox228.github.io/quiz-torex/img/background-header-doors.webp) ;
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -135,7 +135,7 @@ header.header .doors__text img{
 }
 footer.footer{
     background-color: #6667AB;
-    background-image: url(img/footer-background.webp);
+    background-image: url(https://titrox228.github.io/quiz-torex/img/footer-background.webp);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
